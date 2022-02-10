@@ -1,0 +1,26 @@
+PODS:
+  - LaravelEchoIOS (0.0.3):
+    - LaravelEchoIOS/Socket.IO-Client-Swift (= 0.0.3)
+  - LaravelEchoIOS/Socket.IO-Client-Swift (0.0.3):
+    - Socket.IO-Client-Swift
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+
+DEPENDENCIES:
+  - LaravelEchoIOS
+
+SPEC REPOS:
+  trunk:
+    - LaravelEchoIOS
+    - Socket.IO-Client-Swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  LaravelEchoIOS: 02e119a57ae6d6474bdb4db6866a71dbeccfd3db
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+
+PODFILE CHECKSUM: e11c9507cdf17dc532e401f20ff177640d885410
+
+COCOAPODS: 1.11.2

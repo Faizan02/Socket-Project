@@ -1,0 +1,6 @@
+framework module LaravelEchoIOS {
+  umbrella header "LaravelEchoIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
